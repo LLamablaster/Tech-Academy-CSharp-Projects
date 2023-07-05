@@ -1,0 +1,7 @@
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Comparison\Comparison\bin\Debug\Comparison.exe.config
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Comparison\Comparison\bin\Debug\Comparison.exe
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Comparison\Comparison\bin\Debug\Comparison.pdb
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Comparison\Comparison\obj\Debug\Comparison.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Comparison\Comparison\obj\Debug\Comparison.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Comparison\Comparison\obj\Debug\Comparison.exe
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Comparison\Comparison\obj\Debug\Comparison.pdb
