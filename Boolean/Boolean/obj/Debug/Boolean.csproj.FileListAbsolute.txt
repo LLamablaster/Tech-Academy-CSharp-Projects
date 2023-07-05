@@ -1,0 +1,6 @@
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Boolean\Boolean\bin\Debug\Boolean.exe.config
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Boolean\Boolean\bin\Debug\Boolean.exe
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Boolean\Boolean\bin\Debug\Boolean.pdb
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Boolean\Boolean\obj\Debug\Boolean.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Boolean\Boolean\obj\Debug\Boolean.exe
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Boolean\Boolean\obj\Debug\Boolean.pdb
