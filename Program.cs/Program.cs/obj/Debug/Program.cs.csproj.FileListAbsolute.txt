@@ -1,0 +1,7 @@
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Program.cs\Program.cs\bin\Debug\Program.cs.exe.config
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Program.cs\Program.cs\bin\Debug\Program.cs.exe
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Program.cs\Program.cs\bin\Debug\Program.cs.pdb
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Program.cs\Program.cs\obj\Debug\Program.cs.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Program.cs\Program.cs\obj\Debug\Program.cs.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Program.cs\Program.cs\obj\Debug\Program.cs.exe
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Program.cs\Program.cs\obj\Debug\Program.cs.pdb
