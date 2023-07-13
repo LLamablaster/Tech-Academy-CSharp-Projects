@@ -5,3 +5,10 @@ C:\Users\Sam\source\repos\Methods\Methods\obj\Debug\Methods.csproj.AssemblyRefer
 C:\Users\Sam\source\repos\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
 C:\Users\Sam\source\repos\Methods\Methods\obj\Debug\Methods.exe
 C:\Users\Sam\source\repos\Methods\Methods\obj\Debug\Methods.pdb
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Methods\Methods\obj\Debug\Methods.pdb
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Methods\Methods\bin\Debug\Methods.pdb

@@ -16,36 +16,35 @@ namespace Methods
 
         public int apples { get; set; }
 
-        public void peek()
+        public int peek()
         {
-            Console.WriteLine("The barrel contains " + apples + " apples.");
-            Console.ReadLine();
+            return apples;
         }
 
-        public void give(int num)
+        public int give(int num)
         {
             apples += num;
             Console.WriteLine("You add " + num + " apples to the barrel.");
-            peek();
+            return peek();
         }
 
-        public void take(int num)
+        public int take(int num)
         {
             if (num > apples)
             {
                 apples = 0;
                 Console.WriteLine("You take all the apples from the barrel.");
-                peek();
+                return peek();
             }
             else
             {
                 apples -= num;
                 Console.WriteLine("You take " + num + " apples from the barrel.");
-                peek();
+                return peek();
             }
         }
 
-        public void chop(int num)
+        public int chop(int num)
         {
             Console.WriteLine("You chop the barrel into " + num + " pieces using your trusty cutlass!");
             if (apples > 0)
@@ -59,7 +58,7 @@ namespace Methods
             {
                 Console.WriteLine("The barrel was empty.");
             }
-            Console.ReadLine();
+            return num;
 
         }
     }

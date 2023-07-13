@@ -5,3 +5,10 @@ C:\Users\Sam\source\repos\21CardGame\21CardGame\obj\Debug\21CardGame.csproj.Asse
 C:\Users\Sam\source\repos\21CardGame\21CardGame\obj\Debug\21CardGame.csproj.CoreCompileInputs.cache
 C:\Users\Sam\source\repos\21CardGame\21CardGame\obj\Debug\21CardGame.exe
 C:\Users\Sam\source\repos\21CardGame\21CardGame\obj\Debug\21CardGame.pdb
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\21CardGame\21CardGame\obj\Debug\21CardGame.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\21CardGame\21CardGame\obj\Debug\21CardGame.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\21CardGame\21CardGame\obj\Debug\21CardGame.exe
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\21CardGame\21CardGame\obj\Debug\21CardGame.pdb
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\21CardGame\21CardGame\bin\Debug\21CardGame.exe.config
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\21CardGame\21CardGame\bin\Debug\21CardGame.exe
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\21CardGame\21CardGame\bin\Debug\21CardGame.pdb
