@@ -1,0 +1,7 @@
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Exceptions\Exceptions\obj\Debug\Exceptions.pdb
