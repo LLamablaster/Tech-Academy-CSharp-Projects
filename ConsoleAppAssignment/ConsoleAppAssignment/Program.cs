@@ -17,7 +17,8 @@ namespace ConsoleAppAssignment
 
             for (int i = 0; i < array.Length; i++)
             {
-                Console.WriteLine(array[i] + input);
+                array[i] = array[i] + input;
+                Console.WriteLine(array[i]);
             }
             Console.ReadLine();
 
