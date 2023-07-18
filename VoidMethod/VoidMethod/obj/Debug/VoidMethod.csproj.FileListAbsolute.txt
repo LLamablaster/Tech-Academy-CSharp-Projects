@@ -1,0 +1,7 @@
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\VoidMethod\VoidMethod\bin\Debug\VoidMethod.exe.config
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\VoidMethod\VoidMethod\bin\Debug\VoidMethod.exe
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\VoidMethod\VoidMethod\bin\Debug\VoidMethod.pdb
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\VoidMethod\VoidMethod\obj\Debug\VoidMethod.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\VoidMethod\VoidMethod\obj\Debug\VoidMethod.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\VoidMethod\VoidMethod\obj\Debug\VoidMethod.exe
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\VoidMethod\VoidMethod\obj\Debug\VoidMethod.pdb
