@@ -1,0 +1,6 @@
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\OptionalParamaters\OptionalParamaters\bin\Debug\OptionalParamaters.exe.config
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\OptionalParamaters\OptionalParamaters\bin\Debug\OptionalParamaters.exe
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\OptionalParamaters\OptionalParamaters\bin\Debug\OptionalParamaters.pdb
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\OptionalParamaters\OptionalParamaters\obj\Debug\OptionalParamaters.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\OptionalParamaters\OptionalParamaters\obj\Debug\OptionalParamaters.exe
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\OptionalParamaters\OptionalParamaters\obj\Debug\OptionalParamaters.pdb
