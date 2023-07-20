@@ -1,0 +1,7 @@
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\ClassMethods\ClassMethods\bin\Debug\ClassMethods.exe.config
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\ClassMethods\ClassMethods\bin\Debug\ClassMethods.exe
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\ClassMethods\ClassMethods\bin\Debug\ClassMethods.pdb
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\ClassMethods\ClassMethods\obj\Debug\ClassMethods.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\ClassMethods\ClassMethods\obj\Debug\ClassMethods.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\ClassMethods\ClassMethods\obj\Debug\ClassMethods.exe
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\ClassMethods\ClassMethods\obj\Debug\ClassMethods.pdb

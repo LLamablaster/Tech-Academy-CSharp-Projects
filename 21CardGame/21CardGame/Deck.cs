@@ -30,6 +30,8 @@ namespace _21CardGame
             
         }
 
+        public List<Card> Cards { get; set; }
+
         public void debug()
         {
             foreach (Card card in Cards)
@@ -40,6 +42,23 @@ namespace _21CardGame
             Console.ReadLine();
         }
 
-        public List<Card> Cards { get; set; }
+        public void shuffle(int times = 1)
+        {
+            for (int i = 0; i < times; i++)
+            {
+                var result = new List<Card>();
+                Random random = new Random();
+
+                while (Cards.Count > 0)
+                {
+                    int randomIndex = random.Next(0, Cards.Count);
+                    result.Add(Cards[randomIndex]);
+                    Cards.RemoveAt(randomIndex);
+                }
+
+                Cards = result;
+            }
+        }
+        
     }
 }
