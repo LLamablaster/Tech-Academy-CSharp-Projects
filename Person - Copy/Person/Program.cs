@@ -10,8 +10,8 @@ namespace Person
     {
         static void Main(string[] args)
         {
-            Employee test = new Employee(0, "Sample", "Student");
-            test.SayName();
+            IQuittable test = new Employee(0, "Sample", "Student");
+            test.Quit();
         }
     }
 }
