@@ -20,6 +20,11 @@ namespace Person
             Console.WriteLine("I quit!");
             Console.ReadLine();
         }
+        override public void SayName()
+        {
+            Console.WriteLine("Name: {0} {1}", FirstName, LastName);
+            Console.ReadLine();
+        }
 
         public static bool operator== (Employee first, Employee second)
         {

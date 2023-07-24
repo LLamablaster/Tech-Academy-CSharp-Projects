@@ -12,6 +12,7 @@ namespace Person
         {
             Employee test = new Employee(0, "Sample", "Student");
             Employee test2 = new Employee(1, "Stample", "Spudent");
+            test.SayName();
             test.Quit();
             Console.WriteLine(test == test2);
             Console.ReadLine();
