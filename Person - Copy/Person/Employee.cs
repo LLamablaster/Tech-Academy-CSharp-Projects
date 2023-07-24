@@ -6,14 +6,16 @@ using System.Threading.Tasks;
 
 namespace Person
 {
-    class Employee : Person, IQuittable
+    class Employee<T> : Person, IQuittable
     {
         public Employee(int id = 0, string f = "Jane", string l = "Doe") : base(f,l)
         {
             Id = id;
+            Things = new List<T>();
         }
 
         public int Id { get; set; }
+        public List<T> Things { get; set; }
 
         public void Quit()
         {
@@ -26,13 +28,13 @@ namespace Person
             Console.ReadLine();
         }
 
-        public static bool operator== (Employee first, Employee second)
+        public static bool operator== (Employee<T> first, Employee<T> second)
         {
             if (first.Id == second.Id) { return true; } else { return false; }
 
         }
 
-        public static bool operator !=(Employee first, Employee second)
+        public static bool operator !=(Employee<T> first, Employee<T> second)
         {
             if (first.Id != second.Id) { return true; } else {return false; }
             
