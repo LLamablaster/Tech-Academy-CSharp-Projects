@@ -10,15 +10,19 @@ namespace _21CardGame
     {
         static void Main(string[] args)
         {
-            Game_TwentyOne game = new Game_TwentyOne();
-            game.Players = new List<Player> { new Player(), new Player(), new Player() };
+            Game game = new Game_TwentyOne();
+            Player player = new Player();
+            game = game + player;
             game.ListPlayers();
-            game.Play();
+            //game.Players = new List<Player> { new Player(), new Player(), new Player() };
+            //game.ListPlayers();
+            //game.Play();
             //Deck deck = new Deck();
-            //deck.debug();
+            //deck.list();
             //deck.shuffle();
             //deck.shuffle(3);
-            //deck.debug();
+            //deck.list();
+
         }
 
 

@@ -21,5 +21,17 @@ namespace Person
             Console.ReadLine();
         }
 
+        public static bool operator== (Employee first, Employee second)
+        {
+            if (first.Id == second.Id) { return true; } else { return false; }
+
+        }
+
+        public static bool operator !=(Employee first, Employee second)
+        {
+            if (first.Id != second.Id) { return true; } else {return false; }
+            
+        }
+
     }
 }

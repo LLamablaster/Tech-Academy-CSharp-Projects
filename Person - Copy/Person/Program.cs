@@ -10,8 +10,11 @@ namespace Person
     {
         static void Main(string[] args)
         {
-            IQuittable test = new Employee(0, "Sample", "Student");
+            Employee test = new Employee(0, "Sample", "Student");
+            Employee test2 = new Employee(1, "Stample", "Spudent");
             test.Quit();
+            Console.WriteLine(test == test2);
+            Console.ReadLine();
         }
     }
 }
