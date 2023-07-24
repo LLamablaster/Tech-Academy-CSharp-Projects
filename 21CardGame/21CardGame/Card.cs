@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _21CardGame
 {
-    public class Card
+    public struct Card
     {
         public Card(Suit suit, Face face)
         {
