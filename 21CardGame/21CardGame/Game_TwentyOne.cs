@@ -6,11 +6,17 @@ using System.Threading.Tasks;
 
 namespace _21CardGame
 {
-    class Game_TwentyOne : Game
+    public class Game_TwentyOne : Game
     {
-        public void Play()
+        public override void Play()
         {
             throw new NotImplementedException();
+        }
+
+        public override void ListPlayers()
+        {
+            Console.WriteLine("Listing 21 players");
+            base.ListPlayers();
         }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _21CardGame
 {
-    class Deck
+    public class Deck
     {
         public Deck()
         {
@@ -32,7 +32,7 @@ namespace _21CardGame
 
         public List<Card> Cards { get; set; }
 
-        public void debug()
+        public void list()
         {
             foreach (Card card in Cards)
             {

@@ -11,7 +11,7 @@ namespace _21CardGame
         static void Main(string[] args)
         {
             Game_TwentyOne game = new Game_TwentyOne();
-            game.Players = new List<string> { "Matt", "Bill", "Jean" };
+            game.Players = new List<Player> { new Player(), new Player(), new Player() };
             game.ListPlayers();
             game.Play();
             //Deck deck = new Deck();
