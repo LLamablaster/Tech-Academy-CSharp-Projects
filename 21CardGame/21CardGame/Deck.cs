@@ -10,20 +10,12 @@ namespace _21CardGame
     {
         public Deck()
         {
-            List<string> suits = new List<string> { "Hearts", "Diamonds", "Spades", "Clubs" };
-            List<string> faces = new List<string>
-            {
-            "Ace", "Two", "Three", "Four", "Five", "Six", "Seven", 
-            "Eight", "Nine", "Ten", "Jack", "Queen", "King"
-            };
-
             Cards = new List<Card>();
-
-            foreach (string suit in suits)
+            for (int s = 0; s < 4; s++)
             {
-                foreach (string face in faces)
+                for (int f = 0; f < 13; f++)
                 {
-                    Cards.Add(new Card(suit, face));
+                    Cards.Add(new Card((Suit)s, (Face)f));
                 }
             }
 

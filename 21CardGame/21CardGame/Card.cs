@@ -8,12 +8,37 @@ namespace _21CardGame
 {
     public class Card
     {
-        public Card(string suit, string face)
+        public Card(Suit suit, Face face)
         {
             Suit = suit;
             Face = face;
         }
-        public string Suit { get; set; }
-        public string Face { get; set; }
+        public Suit Suit { get; set; }
+        public Face Face { get; set; }
+    }
+
+    public enum Suit
+    {
+        Spades,
+        Hearts,
+        Diamonds,
+        Clubs
+    }
+
+    public enum Face
+    {
+        Ace,
+        Deuce,
+        Three,
+        Four,
+        Five,
+        Six,
+        Seven,
+        Eight,
+        Nine,
+        Ten,
+        Jack,
+        Queen,
+        King
     }
 }
