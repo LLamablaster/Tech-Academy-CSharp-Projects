@@ -1,0 +1,7 @@
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Datetime\Datetime\bin\Debug\Datetime.exe.config
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Datetime\Datetime\bin\Debug\Datetime.exe
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Datetime\Datetime\bin\Debug\Datetime.pdb
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Datetime\Datetime\obj\Debug\Datetime.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Datetime\Datetime\obj\Debug\Datetime.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Datetime\Datetime\obj\Debug\Datetime.exe
+C:\Users\Sam\Documents\GitHub\Tech-Academy-CSharp-Projects\Datetime\Datetime\obj\Debug\Datetime.pdb

@@ -30,7 +30,7 @@ namespace _21CardGame
         {
             Card topcard = Deck.Cards.First();
             hand.Add(topcard);
-            Console.WriteLine(topcard.ToString() + "\n");
+            Console.WriteLine(topcard.ToString());
             Deck.Cards.RemoveAt(0);
         }
     }
