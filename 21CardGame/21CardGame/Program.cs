@@ -10,18 +10,29 @@ namespace _21CardGame
     {
         static void Main(string[] args)
         {
-            //Game game = new Game_TwentyOne();
-            //Player player = new Player();
-            //game = game + player;
-            //game.ListPlayers();
-            //game.Players = new List<Player> { new Player(), new Player(), new Player() };
-            //game.ListPlayers();
-            //game.Play();
-            Deck deck = new Deck();
-            deck.list();
-            deck.shuffle();
-            deck.shuffle(3);
-            deck.list();
+            Console.WriteLine("Welcome to the casino. Let's start with your name.");
+            string playerName = Console.ReadLine();
+
+            Console.WriteLine("How much cash did you bring today?");
+            int playerBank = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Hello, {0}. Would you like to join a game of 21 right now?", playerName);
+            string answer = Console.ReadLine().ToLower();
+            if (answer == "yes" || answer == "yeah" || answer == "y" )
+            {
+                Player player = new Player(playerName, playerBank);
+                Game game = new Game_TwentyOne();
+                game += player;
+                player.IsActive = true;
+                while (player.IsActive && player.Balance > 0)
+                {
+                    game.Play();
+                }
+                game -= player;
+                Console.WriteLine("Thanks for playing!");
+            }
+            Console.WriteLine("Don't loiter, deadbeat.");
+            Console.ReadLine();
         }
 
 

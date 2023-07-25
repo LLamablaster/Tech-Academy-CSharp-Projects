@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{483363C7-3FDC-4EFA-8EE6-FD7482EB8DAF}</ProjectGuid>
+    <ProjectGuid>{150F612F-6E08-4F82-A94D-C61C56F0FF80}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_21CardGame</RootNamespace>
-    <AssemblyName>21CardGame</AssemblyName>
+    <RootNamespace>Person</RootNamespace>
+    <AssemblyName>Person</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,15 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="21rules.cs" />
-    <Compile Include="Card.cs" />
-    <Compile Include="Dealer.cs" />
-    <Compile Include="Dealer_TwentyOne.cs" />
-    <Compile Include="Deck.cs" />
-    <Compile Include="Game.cs" />
-    <Compile Include="Game_TwentyOne.cs" />
-    <Compile Include="IWalkAway.cs" />
-    <Compile Include="Player.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -16,6 +16,7 @@ namespace _21CardGame
         public List<Player> Players { get; set; }
         public string Name { get; set; }
         public Dealer Dealer { get; set; }
+        public Dictionary<Player, int> Bets { get; set; }
 
         public abstract void Play();
         public virtual void ListPlayers()
